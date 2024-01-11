@@ -1,0 +1,38 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.ui-autocomplete {
+    max-height: 100px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+    /* add padding to account for vertical scrollbar */
+    /* padding-right: 20px; */
+}
+
+.ui-autocomplete li{
+    width: 100%;
+    display: block;
+}
+
+.ui-autocomplete li a{
+    width: 100%;
+    display: block;
+}
+
+.ui-autocomplete li:first-child a{
+    font-weight: bold;
+}
+
+/* IE 6 doesn't support max-height
+* we use height instead, but this forces the menu to always be this tall
+*/
+* html .ui-autocomplete {
+height: 100px;
+}
+
+input[type='text'].ui-autocomplete-loading {
+    background: #fff url('../../../../../../jqueryui.com/resources/demos/autocomplete/images/ui-anim_basic_16x16.gif') no-repeat right center;
+}
