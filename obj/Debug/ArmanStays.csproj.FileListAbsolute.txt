@@ -50,7 +50,6 @@ C:\Arman\ArmanStays\ArmanStays\bin\roslyn\vbc.exe.config
 C:\Arman\ArmanStays\ArmanStays\bin\roslyn\vbc.rsp
 C:\Arman\ArmanStays\ArmanStays\bin\roslyn\VBCSCompiler.exe
 C:\Arman\ArmanStays\ArmanStays\bin\roslyn\VBCSCompiler.exe.config
-C:\Arman\ArmanStays\ArmanStays\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Arman\ArmanStays\ArmanStays\obj\Debug\ArmanStays.csproj.AssemblyReference.cache
 C:\Arman\ArmanStays\ArmanStays\obj\Debug\ArmanStays.csproj.CoreCompileInputs.cache
 C:\Arman\ArmanStays\ArmanStays\obj\Debug\ArmanStays.csproj.CopyComplete
